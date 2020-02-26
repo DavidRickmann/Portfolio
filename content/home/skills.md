@@ -18,18 +18,33 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+  
+[[feature]]
+  icon = "train"
+  icon_pack = "fas"
+  name = "Transport Analysis"
+  
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fas"
+#  name = "Python"
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Excel"
+  
+  
+  
 
 +++
