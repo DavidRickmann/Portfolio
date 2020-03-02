@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | David Rickmann</title>
+    <link>/tags/data-science/</link>
+      <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Horizon Innovations Study</title>
+      <link>/project/horizon-innovations/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/horizon-innovations/</guid>
+      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations with the aim of determining which areas of legislation the department should focus on to encourage the development of innovations in the field. David&amp;rsquo;s role was data scientists, conducting data cleaning, sorting and topic modelling to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

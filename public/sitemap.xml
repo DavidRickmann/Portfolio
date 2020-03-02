@@ -28,6 +28,26 @@
   </url>
   
   <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/horizon-innovations/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/writing-technical-content/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
@@ -63,11 +83,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/jupyter/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
@@ -83,37 +98,22 @@
   </url>
   
   <url>
+    <loc>/tags/transport/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/wales-bid/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>/terms/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   
