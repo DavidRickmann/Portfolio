@@ -34,7 +34,7 @@ user_groups:
 ---
 
 David Rickmann is a Data Scientist with 15 years experience working with UK Transportation data. 
-David has worked on projects with every major transport in the UK (Thameslink, Crossrail, HS2, Heathrow).
+David has worked on every recent major transport project in the UK (Thameslink, Crossrail, HS2, Heathrow).
 
 
 

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Principal Consulatant"
+  title = "Principal Consultant"
   company = "Steer"
   company_url = ""
   location = "London"
