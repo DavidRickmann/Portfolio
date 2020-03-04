@@ -33,6 +33,9 @@ user_groups:
 - Visitors
 ---
 
-David Rickmann is a Data Scientist with a background in transport. He is very clever. You should hire him. His preferred language is R. This site is made in R.
+David Rickmann is a Data Scientist with 15 years experience working with UK Transportation data. 
+David has worked on projects with every major transport in the UK (Thameslink, Crossrail, HS2, Heathrow).
 
-David is a human male. He has teeth,
+
+
+

@@ -19,7 +19,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
@@ -29,22 +29,22 @@
   
   <url>
     <loc>/tags/data-science/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/horizon-innovations/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
@@ -58,13 +58,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <loc>/publication/robotsbook/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,13 +73,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <loc>/authors/luis-de-miranda/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -99,12 +99,12 @@
   
   <url>
     <loc>/tags/transport/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/wales-bid/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
@@ -115,6 +115,11 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hs2-h_and_s/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -134,21 +139,6 @@
   
   <url>
     <loc>/categories/demo/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   
@@ -174,16 +164,6 @@
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   

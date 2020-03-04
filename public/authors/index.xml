@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,18 +15,18 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;David Rickmann is a Data Scientist with a background in transport. He is very clever. You should hire him. His preferred language is R. This site is made in R.&lt;/p&gt;
-&lt;p&gt;David is a human male. He has teeth,&lt;/p&gt;
+      <description>&lt;p&gt;David Rickmann is a Data Scientist with 15 years experience working with UK Transportation data. 
+David has worked on projects with every major transport in the UK (Thameslink, Crossrail, HS2, Heathrow).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Luis de Miranda</title>
+      <link>/authors/luis-de-miranda/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/luis-de-miranda/</guid>
       <description></description>
     </item>
     
