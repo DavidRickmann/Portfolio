@@ -6,7 +6,7 @@ image:
 summary: What is the volume of a small child as measured in pigeons.
 tags:
 - Data Science
-title: Comparative Volume of Childern and Pigeons
+title: Comparative Volume of Children and Pigeons
 url_code: ""
 url_pdf: "files/20190519_pigeonreport.pdf"
 url_slides: ""
