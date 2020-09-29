@@ -17,7 +17,9 @@
       <link>/project/horizon-innovations/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/horizon-innovations/</guid>
-      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations with the aim of determining which areas of legislation the department should focus on to encourage the development of innovations in the field. David&amp;rsquo;s role was data scientists, conducting data cleaning, sorting and topic modelling to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
+      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations performed for the Department for Business, Energy &amp;amp; Industrial Strategy. The aim of the study was to determine which areas of legislation the department should focus on to encourage the development of technological innovations.&lt;/p&gt;
+&lt;p&gt;The department had developed a corpus of data about potential new technologies which may be limited by a regressive regulatory environment.
+My role as data scientist was to conducting data cleaning and sorting of the data and then to apply a natural language processing model to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
 </description>
     </item>
     
@@ -32,6 +34,18 @@
 &lt;p&gt;The  General Linear Models procedure (SAS Institute. Inc. 1988) was used to determine differences in density and feather mass among species and between sexes within species. Because the use of two or more related response variables (i.e. three measurements of density) to address a single hypothesis increases the probability of committing a type I error, the Bonferroni inequality technique was employed to ensure that the type I error rate was  under .05 (Bed &amp;amp; Khamis 1991). To maintain this probability level, 0.05 was divided by the number of response variables (three) tested. resulting in significant differences at P &amp;lt; 0.017. If differences occurred. Tukey tests were used to determine which means differed.&lt;/p&gt;
 &lt;p&gt;From these data sources I was able to determine the average volume of a five year old child to be 34 pigeons.&lt;/p&gt;
 &lt;p&gt;The final report was delivered to the client who reported a high level of satisfaction with the finished work. This report is available from the PDF link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fixed Forward water treatment pricing tool.</title>
+      <link>/project/water_treatment_pricing/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/water_treatment_pricing/</guid>
+      <description>&lt;p&gt;Severn Trent Water wanted to move from a flat rate chargin model to a fairer usage based model for their industrial water clients. Unfortunately water sampling is often inconsistent and may not tell the full story about a clients usage rates.&lt;/p&gt;
+&lt;p&gt;For example, one client, a brewery produced a large volume of contaminated water during one phase of the brewing process (a weekly production cycle) but on other days produced relatively little. Standard statistical analysis of sample data would show wild swings in their usage depending on if their output was sampled during the active period.&lt;/p&gt;
+&lt;p&gt;In order to correctly set pricing my team developed a tool to perform statistical analyses on water sampling data and use this to deduce the correct pricing level in terms of suspended solids, dissolved oxygen, and ammonia content.&lt;/p&gt;
+&lt;p&gt;The client was interested in using an Excel front end, since they were familiar with excel, but to do most of the complicated statistical processing using R. As lead developer I oversaw the process to marry these two systems together, but also developed a web based system allowing themto move away from the cumbersome excel interface if they so chose.&lt;/p&gt;
 </description>
     </item>
     

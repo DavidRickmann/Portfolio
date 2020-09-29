@@ -11,6 +11,7 @@ url_code: ""
 url_pdf: "files/20190519_pigeonreport.pdf"
 url_slides: ""
 url_video: ""
+zref: 20200929101509
 ---
 
 I was asked to undertake this study by a neighbourhood child who wanted to know how many uncompressed pigeons would occupy the same space as a five year old child. I advised the client on the principle of "Wisdom of the Crowd" as first demonstrated by Francis Galton whereby multiple independant observations tended to converge on a more accurate answer than any of those individual observations. They then conducted a survey to determine an estimated answer.

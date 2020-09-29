@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Road | David Rickmann</title>
+    <link>/tags/road/</link>
+      <atom:link href="/tags/road/index.xml" rel="self" type="application/rss+xml" />
+    <description>Road</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Road</title>
+      <link>/tags/road/</link>
+    </image>
+    
+    <item>
+      <title>BEAST Planning Software</title>
+      <link>/project/beast/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/beast/</guid>
+      <description>&lt;p&gt;As part if their maintenance planning function A-one+ highways used a piece of legacy software called BEAST.
+BEAST was used to develop large format diagrams of road networks but development had stalled and the organisation no longer retained the expertise to continue development.&lt;/p&gt;
+&lt;p&gt;My role on this project was to reverse engineer BEAST, fix several functional issues, develop new features and document the process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Road Maintenance Sensor Network</title>
+      <link>/project/distributed_sensors/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/distributed_sensors/</guid>
+      <description>&lt;p&gt;East Sussex highways was investigating methods to reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;I acted as lead technologist in assembling a report on the use of distributed sensor networks which sought to monitor road gulleys and report back enabling cleaning and maintenance regimes to be reactive based on need. This would reduce costs and improve maintenance efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

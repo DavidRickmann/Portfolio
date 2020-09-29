@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development | David Rickmann</title>
+    <link>/tags/software-development/</link>
+      <atom:link href="/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Software Development</title>
+      <link>/tags/software-development/</link>
+    </image>
+    
+    <item>
+      <title>BEAST Planning Software</title>
+      <link>/project/beast/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/beast/</guid>
+      <description>&lt;p&gt;As part if their maintenance planning function A-one+ highways used a piece of legacy software called BEAST.
+BEAST was used to develop large format diagrams of road networks but development had stalled and the organisation no longer retained the expertise to continue development.&lt;/p&gt;
+&lt;p&gt;My role on this project was to reverse engineer BEAST, fix several functional issues, develop new features and document the process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sea-Tac Maintenance and Reliability modelling.</title>
+      <link>/project/sea-tac_maintenance/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/sea-tac_maintenance/</guid>
+      <description>&lt;p&gt;Seattle-Tacoma airport needed enhancement of their reliability and maintenance software.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

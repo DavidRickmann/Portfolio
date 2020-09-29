@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highways | David Rickmann</title>
+    <link>/tags/highways/</link>
+      <atom:link href="/tags/highways/index.xml" rel="self" type="application/rss+xml" />
+    <description>Highways</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Highways</title>
+      <link>/tags/highways/</link>
+    </image>
+    
+    <item>
+      <title>Distributed Road Maintenance Sensor Network</title>
+      <link>/project/distributed_sensors.md/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/distributed_sensors.md/</guid>
+      <description>&lt;p&gt;East Sussex highways was investigating methods to reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;I acted as lead technologist in assembling a report on the use of distributed sensor networks which sought to monitor road gulleys and report back enabling cleaning and maintenance regimes to be reactive based on need. This would reduce costs and improve maintenance efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

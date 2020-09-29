@@ -12,23 +12,5 @@
       <link>/authors/</link>
     </image>
     
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;David Rickmann is a Data Scientist with 15 years experience working with UK Transportation data. 
-David has worked on every recent major transport project in the UK (Thameslink, Crossrail, HS2, Heathrow).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Luis de Miranda</title>
-      <link>/authors/luis-de-miranda/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/luis-de-miranda/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

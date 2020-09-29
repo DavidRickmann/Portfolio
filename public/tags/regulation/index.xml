@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulation | David Rickmann</title>
+    <link>/tags/regulation/</link>
+      <atom:link href="/tags/regulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Regulation</title>
+      <link>/tags/regulation/</link>
+    </image>
+    
+    <item>
+      <title>Horizon Innovations Study</title>
+      <link>/project/horizon-innovations/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/horizon-innovations/</guid>
+      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations performed for the Department for Business, Energy &amp;amp; Industrial Strategy. The aim of the study was to determine which areas of legislation the department should focus on to encourage the development of technological innovations.&lt;/p&gt;
+&lt;p&gt;The department had developed a corpus of data about potential new technologies which may be limited by a regressive regulatory environment.
+My role as data scientist was to conducting data cleaning and sorting of the data and then to apply a natural language processing model to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Williams Rail Review Data Analytics</title>
+      <link>/project/williams_review/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/williams_review/</guid>
+      <description>&lt;p&gt;The Williams Rail Review was established in September 2018 to look at the structure of the whole rail industry and the way passenger rail services are delivered.&lt;/p&gt;
+&lt;p&gt;I developed software tools to automatically process ticketing data allowing it to be broken down across multiple axes.&lt;/p&gt;
+&lt;p&gt;The workflow for this task was originally a longwinded process where a ticketing expert would ask a question, that would be passed to a data analyst to sift through the dataset and produce graphs and results which would then go back to the expert to look over and decide what question they needed to ask next.&lt;/p&gt;
+&lt;p&gt;With the new analytical software the ticketing expert could explore the data easily and perform their own analysis. This collapsing of thye data flow loops drastically improved the process leading to insights which may otherwise have been missed and significantly reduced analysis time and costs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

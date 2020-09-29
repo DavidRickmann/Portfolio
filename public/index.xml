@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>David Rickmann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>David Rickmann</title>
@@ -81,7 +81,52 @@
       <link>/project/horizon-innovations/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/horizon-innovations/</guid>
-      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations with the aim of determining which areas of legislation the department should focus on to encourage the development of innovations in the field. David&amp;rsquo;s role was data scientists, conducting data cleaning, sorting and topic modelling to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
+      <description>&lt;p&gt;The Horizon Innovations study was an examination of upcoming technical innovations performed for the Department for Business, Energy &amp;amp; Industrial Strategy. The aim of the study was to determine which areas of legislation the department should focus on to encourage the development of technological innovations.&lt;/p&gt;
+&lt;p&gt;The department had developed a corpus of data about potential new technologies which may be limited by a regressive regulatory environment.
+My role as data scientist was to conducting data cleaning and sorting of the data and then to apply a natural language processing model to better understand which fields the included innovations were in, how they were distributed and which fields were most amenable to legislative intervention.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>West London Orbital</title>
+      <link>/project/west_london_orbital/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/west_london_orbital/</guid>
+      <description>&lt;p&gt;The West London Orbital railway is a proposed extension to the London Overground that seeks to bring sections of rail between West Hampstead and Hounslow back into active use. This includes the Dudding Hill Line, North London Line and Hounslow Loop. The route would increase connectivity in the area, connecting together The Jubilee Line, Bakerloo Line, Thameslink, Crossrail and HS2 and the Piccadilly line.&lt;/p&gt;
+&lt;p&gt;My role on this project was as principal data scientist. I developed systems to take large scale regional demand data, clean it and recasting it in a form suitable to be represented as a GIS layer. This let us take a high level view of areas which benefit most under different design cases and determine the potential economic benefits of the new line.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GWR Direct Award 3</title>
+      <link>/project/gwr_da3/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/gwr_da3/</guid>
+      <description>&lt;p&gt;The GWR Franchise was due to expire March 2020. In november 2017 the Department for Transport made the decision to extend their franchise until April 2022.&lt;/p&gt;
+&lt;p&gt;I joined the team in 2019  where I acted as a n expert in rail performance modelling. My role was to advise the existing Performance team as they underwent a forensic examination of the bid comparator model during negotiations between the department for transport and first group.&lt;/p&gt;
+&lt;p&gt;I worked primarily to help the team understand the model drivers and causes from a high level view, and from there went on to advise on suitable benchmark and payment rate regimes for the franchise direct award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Southeastern DAC4</title>
+      <link>/project/southeastern_dac4/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/southeastern_dac4/</guid>
+      <description>&lt;p&gt;In June 2017 the Department for Transport announced a shortlist of bidders to take over the southeastern franchise. There were several problems with available bidders leading to the postponement of the franchise bidding process. To resolve this issue in the short term the Department for Transport extended the existing franchise until ultimately the franchise competition was cancelled. The Department for Transport chose to further extend the current franchise agreement until 2022.&lt;/p&gt;
+&lt;p&gt;I joined the Direct Award team in late 2019, advising the department on suitable benchmark and payment rate regimes for the franchise direct award. Due to the tight timescales a traditional performance model was not developed, instead aspects of the original competition franchise were rolled forward and adapted to be applied to the new contract.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Williams Rail Review Data Analytics</title>
+      <link>/project/williams_review/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/williams_review/</guid>
+      <description>&lt;p&gt;The Williams Rail Review was established in September 2018 to look at the structure of the whole rail industry and the way passenger rail services are delivered.&lt;/p&gt;
+&lt;p&gt;I developed software tools to automatically process ticketing data allowing it to be broken down across multiple axes.&lt;/p&gt;
+&lt;p&gt;The workflow for this task was originally a longwinded process where a ticketing expert would ask a question, that would be passed to a data analyst to sift through the dataset and produce graphs and results which would then go back to the expert to look over and decide what question they needed to ask next.&lt;/p&gt;
+&lt;p&gt;With the new analytical software the ticketing expert could explore the data easily and perform their own analysis. This collapsing of thye data flow loops drastically improved the process leading to insights which may otherwise have been missed and significantly reduced analysis time and costs.&lt;/p&gt;
 </description>
     </item>
     
@@ -256,9 +301,9 @@ Crash --&amp;gt; [*]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
 &lt;p&gt;Represent your data in tables:&lt;/p&gt;
@@ -473,6 +518,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -524,11 +570,62 @@ Three
     </item>
     
     <item>
+      <title>Fixed Forward water treatment pricing tool.</title>
+      <link>/project/water_treatment_pricing/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/water_treatment_pricing/</guid>
+      <description>&lt;p&gt;Severn Trent Water wanted to move from a flat rate chargin model to a fairer usage based model for their industrial water clients. Unfortunately water sampling is often inconsistent and may not tell the full story about a clients usage rates.&lt;/p&gt;
+&lt;p&gt;For example, one client, a brewery produced a large volume of contaminated water during one phase of the brewing process (a weekly production cycle) but on other days produced relatively little. Standard statistical analysis of sample data would show wild swings in their usage depending on if their output was sampled during the active period.&lt;/p&gt;
+&lt;p&gt;In order to correctly set pricing my team developed a tool to perform statistical analyses on water sampling data and use this to deduce the correct pricing level in terms of suspended solids, dissolved oxygen, and ammonia content.&lt;/p&gt;
+&lt;p&gt;The client was interested in using an Excel front end, since they were familiar with excel, but to do most of the complicated statistical processing using R. As lead developer I oversaw the process to marry these two systems together, but also developed a web based system allowing themto move away from the cumbersome excel interface if they so chose.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TMS Benefits Tool</title>
+      <link>/project/tms_analysis/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/tms_analysis/</guid>
+      <description>&lt;p&gt;Network Rail&amp;rsquo;s Digital Railway Project was seeking a method of understanding the potential scale of improvements realisable from increased, or more effective use of their trialled Traffic Management System.&lt;/p&gt;
+&lt;p&gt;To meet this goal I developed an online tool to allow users to input historical performance data and adjust performance based on the effects of the Traffic Management System trial.&lt;/p&gt;
+&lt;p&gt;The tool analysed this data and categorised each incident into a category based on the overall delay minutes attributed to that delay incident. Users were able to see an analysis of all delay incidents included broken down by incident size, incident time, operators involved and many other aspects.&lt;/p&gt;
+&lt;p&gt;The user could then adjust the historic performance in order to simulate what the outcomes might have been has the Traffic Management System been in operation.&lt;/p&gt;
+&lt;p&gt;The TMS benefits tool has a set of default modifications based on expert observation of Traffic Management Systems, but allowed users to add their own profiles or simply adjust the settings and see the results live. All impact profiles could be saved or loaded allowing for replication of results.&lt;/p&gt;
+&lt;p&gt;The results of this analysis were produced as a mirror of the original delay analysis, i.e. incidents broken down by incident size, incident time, operators involved, etc.&lt;/p&gt;
+&lt;p&gt;This tool was developed using R and the Shiny library for web visualisations and deployed on the internet allowing users to interact with it without needing to install any additional software and ensuring that fixes or modifications could be rolled out without needing to send new files to users.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wales and Borders Franchise Bid</title>
       <link>/project/wales-bid/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/project/wales-bid/</guid>
-      <description>&lt;p&gt;I was the performance modelling lead on the winning bid for the Wales and Borders franchise.&lt;/p&gt;
+      <description>&lt;p&gt;In October 2016 Transport for Wales began a procurement process for a operational and delivery partner for the Wales and Borders transformation project. This project was to deliver a £5 billion investment in transforming the Wales and Borders rail franchise.&lt;/p&gt;
+&lt;p&gt;Working with Keolis/Amey I led the performance modelling effort, developing the performance model and advising the performance team on all regulatory aspects of the bid process.
+This franchise was the first to be offered by the newly Transport For Wales, requiring a cross border solution integrating modelling of Welsh and English rail services, as well as working on processes for dealing with large sections of infrastructure which was to be transferred to the new infrastructure manager.&lt;/p&gt;
+&lt;p&gt;After we had succesfully won the bid I worked with the newly formed &amp;ldquo;Transport For Wales&amp;rdquo; branded franchise helped develop their operational capabilities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Western Rail Approach to Heathrow</title>
+      <link>/project/wrath/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/wrath/</guid>
+      <description>&lt;p&gt;As part of the Network Rail Railway Upgrade Plan the Department For Transport were developing a plan to build a route to Heathrow airport from the west, avoiding central London.&lt;/p&gt;
+&lt;p&gt;The Western Rail Link to Heathrow would leave the Main Line between Langley and Iver. It would then descend underneath the main railway line into a cutting before entering a 5km tunnel. The tunnel would pass under Richings Park and Colnbrook and then merge with existing rail lines underground at Heathrow Terminal 5.&lt;/p&gt;
+&lt;p&gt;The proposed rail link would:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduce rail journey times between Reading and Heathrow by delivering a new, faster, frequent, more reliable direct train service to Heathrow with four trains per hour in each direction. All trains would call at Reading and Slough and alternate trains at Twyford and Maidenhead. Journey times could be as short as 26 minutes from Reading and 6 to 7 minutes from Slough.&lt;/li&gt;
+&lt;li&gt;Significantly improve rail connectivity to Heathrow from the Thames Valley, South Coast, South West, South Wales and West Midlands.&lt;/li&gt;
+&lt;li&gt;Provide an alternative form of transport for passengers and the large number of people who work at the airport who are currently travelling by road.&lt;/li&gt;
+&lt;li&gt;Ease congestion on roads, including the M4, M3 and M25 resulting in lower CO2 emissions equivalent to approximately 30 million road miles per year.&lt;/li&gt;
+&lt;li&gt;Generate economic growth and new jobs across the Thames Valley and surrounding areas.&lt;/li&gt;
+&lt;li&gt;Reduce passenger congestion at London Paddington.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As such there was a significant amount of analysis required to determine the value for money that such a route would provide. As lead data scientist for the project my role was to take large journey time and demand matrices for each proposed build case and either refactor them for GIS analysis or develop algorithms to determine the demand value across different passenger sectors.&lt;/p&gt;
+&lt;p&gt;Traditionally this kind of demand modelling has been a slow process, using only a subset of available data. This is because the data inolved is far too big for traditional spreadsheet modelling. However replacing the spreadsheet component with algorithms developed in R allowed us to cycle through multiple business case model analyses across several years using the full datasets of each (in excess of 16 million data points per input type with 3 or 4 types per input set) using an automated method. This allowed the results to be produced, processed quickly and maintain strong audit trails and verifiability.&lt;/p&gt;
 </description>
     </item>
     
@@ -547,6 +644,36 @@ Three
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BEAST Planning Software</title>
+      <link>/project/beast/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/beast/</guid>
+      <description>&lt;p&gt;As part if their maintenance planning function A-one+ highways used a piece of legacy software called BEAST.
+BEAST was used to develop large format diagrams of road networks but development had stalled and the organisation no longer retained the expertise to continue development.&lt;/p&gt;
+&lt;p&gt;My role on this project was to reverse engineer BEAST, fix several functional issues, develop new features and document the process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sea-Tac Maintenance and Reliability modelling.</title>
+      <link>/project/sea-tac_maintenance/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/sea-tac_maintenance/</guid>
+      <description>&lt;p&gt;Seattle-Tacoma airport needed enhancement of their reliability and maintenance software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Road Maintenance Sensor Network</title>
+      <link>/project/distributed_sensors/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/distributed_sensors/</guid>
+      <description>&lt;p&gt;East Sussex highways was investigating methods to reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;I acted as lead technologist in assembling a report on the use of distributed sensor networks which sought to monitor road gulleys and report back enabling cleaning and maintenance regimes to be reactive based on need. This would reduce costs and improve maintenance efficiency.&lt;/p&gt;
 </description>
     </item>
     
@@ -593,7 +720,7 @@ Three
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;

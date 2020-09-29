@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reliability | David Rickmann</title>
+    <link>/tags/reliability/</link>
+      <atom:link href="/tags/reliability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reliability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Reliability</title>
+      <link>/tags/reliability/</link>
+    </image>
+    
+    <item>
+      <title>Sea-Tac Maintenance and Reliability modelling.</title>
+      <link>/project/sea-tac_maintenance/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/sea-tac_maintenance/</guid>
+      <description>&lt;p&gt;Seattle-Tacoma airport needed enhancement of their reliability and maintenance software.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

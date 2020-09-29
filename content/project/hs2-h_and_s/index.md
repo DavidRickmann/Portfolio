@@ -12,6 +12,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+zref: 20200929101459
 ---
 
 In an attempt to reduce work related injuries the High Speed 2 project undertook an analysis of health and safety data sourced from the Crossrail project, with the assumption that two large rail projects would have similar risk factors.

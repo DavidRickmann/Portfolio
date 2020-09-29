@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,11 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Principal Data Specialist"
+  company = "D2 Rail"
+  company_url = "https://www.d2rail.co.uk/"
+  location = "London"
+  date_start = "2020-09-01"
+  description = """Capacity Management, Data Analysis, Transport Modelling"""
+
 
 [[experience]]
   title = "Principal Consultant"
   company = "Steer"
-  company_url = ""
+  company_url = "https://www.steergroup.com/"
   location = "London"
   date_start = "2019-08-20"
   date_end = "2020-03-01"
@@ -31,7 +39,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Consultant"
   company = "CH2M / Jacobs"
-  company_url = ""
+  company_url = "https://www.jacobs.com/"
   location = "London"
   date_start = "2013-02-04"
   date_end = "2019-08-16"
@@ -47,7 +55,7 @@ date_format = "Jan 2006"
   location = "Southwark"
   date_start = "2008-12-01"
   date_end = "2013-02-01"
-  description = """Developed operations models for the Thameslink programme, working on scheme simulation, capac ity utilsation analysis and Systems Reliability modelling. Developed methods of modelling the first automatic train operation on a UK mainline railway."""
+  description = """Developed operations models for the Thameslink programme, working on scheme simulation, capacity utilsation analysis and Systems Reliability modelling. Developed methods of modelling the first automatic train operation on a UK mainline railway."""
 
 
 

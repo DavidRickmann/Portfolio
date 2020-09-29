@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franchise Bid | David Rickmann</title>
+    <link>/tags/franchise-bid/</link>
+      <atom:link href="/tags/franchise-bid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Franchise Bid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Franchise Bid</title>
+      <link>/tags/franchise-bid/</link>
+    </image>
+    
+    <item>
+      <title>Wales and Borders Franchise Bid</title>
+      <link>/project/wales-bid/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/wales-bid/</guid>
+      <description>&lt;p&gt;I was the performance modelling lead on the winning bid for the Wales and Borders franchise.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

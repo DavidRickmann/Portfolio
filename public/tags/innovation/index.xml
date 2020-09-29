@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation | David Rickmann</title>
+    <link>/tags/innovation/</link>
+      <atom:link href="/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Innovation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Innovation</title>
+      <link>/tags/innovation/</link>
+    </image>
+    
+    <item>
+      <title>TMS Benefits Tool</title>
+      <link>/project/tms_analysis/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/tms_analysis/</guid>
+      <description>&lt;p&gt;Network Rail&amp;rsquo;s Digital Railway Project was seeking a method of understanding the potential scale of improvements realisable from increased, or more effective use of their trialled Traffic Management System.&lt;/p&gt;
+&lt;p&gt;To meet this goal I developed an online tool to allow users to input historical performance data and adjust performance based on the effects of the Traffic Management System trial.&lt;/p&gt;
+&lt;p&gt;The tool analysed this data and categorised each incident into a category based on the overall delay minutes attributed to that delay incident. Users were able to see an analysis of all delay incidents included broken down by incident size, incident time, operators involved and many other aspects.&lt;/p&gt;
+&lt;p&gt;The user could then adjust the historic performance in order to simulate what the outcomes might have been has the Traffic Management System been in operation.&lt;/p&gt;
+&lt;p&gt;The TMS benefits tool has a set of default modifications based on expert observation of Traffic Management Systems, but allowed users to add their own profiles or simply adjust the settings and see the results live. All impact profiles could be saved or loaded allowing for replication of results.&lt;/p&gt;
+&lt;p&gt;The results of this analysis were produced as a mirror of the original delay analysis, i.e. incidents broken down by incident size, incident time, operators involved, etc.&lt;/p&gt;
+&lt;p&gt;This tool was developed using R and the Shiny library for web visualisations and deployed on the internet allowing users to interact with it without needing to install any additional software and ensuring that fixes or modifications could be rolled out without needing to send new files to users.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Road Maintenance Sensor Network</title>
+      <link>/project/distributed_sensors/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/distributed_sensors/</guid>
+      <description>&lt;p&gt;East Sussex highways was investigating methods to reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;I acted as lead technologist in assembling a report on the use of distributed sensor networks which sought to monitor road gulleys and report back enabling cleaning and maintenance regimes to be reactive based on need. This would reduce costs and improve maintenance efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -18,18 +18,13 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-03T14:48:43+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/example/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/data-science/</loc>
-    <lastmod>2020-04-03T14:48:43+01:00</lastmod>
+    <lastmod>2020-04-03T14:50:23+01:00</lastmod>
   </url>
   
   <url>
@@ -39,12 +34,52 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-04-03T14:48:43+01:00</lastmod>
+    <lastmod>2020-04-03T14:50:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rail/</loc>
+    <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regulation/</loc>
+    <lastmod>2020-03-02T16:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-03T14:48:43+01:00</lastmod>
+    <lastmod>2020-04-03T14:50:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/west_london_orbital/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/franchising/</loc>
+    <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/gwr_da3/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/southeastern_dac4/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/transport/</loc>
+    <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/williams_review/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,12 +89,7 @@
   
   <url>
     <loc>/project/pigeons/</loc>
-    <lastmod>2020-04-03T14:48:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-03-04T12:28:23+00:00</lastmod>
+    <lastmod>2020-04-03T14:50:23+01:00</lastmod>
   </url>
   
   <url>
@@ -74,7 +104,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+    <lastmod>2020-06-12T13:02:57+01:00</lastmod>
   </url>
   
   <url>
@@ -103,13 +133,38 @@
   </url>
   
   <url>
-    <loc>/tags/transport/</loc>
-    <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+    <loc>/tags/air/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/water_treatment_pricing/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/innovation/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tms_analysis/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/wales-bid/</loc>
     <lastmod>2020-03-04T12:06:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/wrath/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-26T11:47:15+00:00</lastmod>
   </url>
   
   <url>
@@ -120,6 +175,36 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/beast/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reliability/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/road/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sea-tac_maintenance/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-development/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/distributed_sensors/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -170,6 +255,11 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2020-02-26T11:47:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-06-12T13:02:57+01:00</lastmod>
   </url>
   
   <url>
